@@ -37,7 +37,7 @@
 	<repository>
 		<id>tata</id>
 		<name>Internal Releases</name>
-		<url>http://52.9.248.105:8081/nexus/content/repositories/snapshots/</url>
+		<url>http://52.9.248.105:8081/nexus/content/repositories/releases/</url>
 	</repository>
  
 	<snapshotRepository>
