@@ -45,6 +45,11 @@
 		<name>Internal Releases</name>
 		<url>http://54.67.71.62:8081/nexus/content/repositories/snapshots/</url>
 	</snapshotRepository>
+	 
+  <properties>
+    <maven.compiler.source>1.6</maven.compiler.source>
+    <maven.compiler.target>1.6</maven.compiler.target>
+  </properties>
 
 </distributionManagement>
 
